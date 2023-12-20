@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/study/大学/gzs/智能健康检测设备final/smart_watch/build",
+  "command": "D:\\study\\vscode\\MinGW64\\MinGW64\\bin\\gcc.exe  @CMakeFiles/unity.dir/includes_C.rsp -g -std=c11 -Waddress -Waggregate-return -Wformat-nonliteral -Wformat-security -Wformat -Winit-self -Wmissing-declarations -Wmissing-include-dirs -Wno-multichar -Wno-parentheses -Wno-type-limits -Wno-unused-parameter -Wunreachable-code -Wwrite-strings -Wpointer-arith -Werror -Wall -o CMakeFiles\\unity.dir\\src\\unity.c.obj -c D:\\study\\大学\\gzs\\智能健康检测设备final\\smart_watch\\.pio\\libdeps\\nodemcuv2\\Unity\\src\\unity.c",
+  "file": "D:/study/大学/gzs/智能健康检测设备final/smart_watch/.pio/libdeps/nodemcuv2/Unity/src/unity.c",
+  "output": "CMakeFiles/unity.dir/src/unity.c.obj"
+}
+]

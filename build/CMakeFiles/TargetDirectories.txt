@@ -1,0 +1,7 @@
+D:/study/大学/gzs/智能健康检测设备final/smart_watch/build/CMakeFiles/unity.dir
+D:/study/大学/gzs/智能健康检测设备final/smart_watch/build/CMakeFiles/edit_cache.dir
+D:/study/大学/gzs/智能健康检测设备final/smart_watch/build/CMakeFiles/rebuild_cache.dir
+D:/study/大学/gzs/智能健康检测设备final/smart_watch/build/CMakeFiles/list_install_components.dir
+D:/study/大学/gzs/智能健康检测设备final/smart_watch/build/CMakeFiles/install.dir
+D:/study/大学/gzs/智能健康检测设备final/smart_watch/build/CMakeFiles/install/local.dir
+D:/study/大学/gzs/智能健康检测设备final/smart_watch/build/CMakeFiles/install/strip.dir

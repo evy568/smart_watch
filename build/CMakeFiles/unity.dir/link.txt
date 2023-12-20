@@ -1,0 +1,2 @@
+D:\study\vscode\MinGW64\MinGW64\bin\ar.exe qc libunity.a CMakeFiles/unity.dir/src/unity.c.obj
+D:\study\vscode\MinGW64\MinGW64\bin\ranlib.exe libunity.a
